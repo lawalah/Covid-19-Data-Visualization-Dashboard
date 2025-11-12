@@ -1,0 +1,14 @@
+streamlit
+pandas
+plotly
+
+
+
+geopandas
+folium
+pydeck
+shapely
+fiona
+rtree
+scikit-learn
+numpy
